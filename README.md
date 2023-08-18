@@ -57,4 +57,10 @@ Inscrição da Vaga:
 
 ![image](https://github.com/mendesvitoor/projectpd/assets/92129858/d071357b-102a-419c-8afe-6ac9b085ad5b)
 
+Publicações:
+
+
+![image](https://github.com/mendesvitoor/projectpd/assets/92129858/a092311f-3685-4bcb-badd-2bfa60bd87ac)
+
+
 Link do Figma com todas as telas disponiveis: https://www.figma.com/file/YZ21MLbt195zEbeqMxmFw2/Projeto-Programa%C3%A7%C3%A3o-para-Dispositivos-M%C3%B3veis?type=design&node-id=0-1&mode=design&t=8LLtM2xJQ6dPTKTO-0
