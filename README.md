@@ -1,4 +1,4 @@
-# projectpd
+# Programação para Dispositivos Móveis
 
 Projeto de um aplicativo móvel para a matéria "Programação para Dispositivos Móveis" do curso de Engenharia de Software na UTFPR Câmpus Dois Vizinhos.
 
